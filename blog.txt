@@ -1,0 +1,3 @@
+http://lcfggg.duapp.com/boke/admin/login/index.php
+name:lg1314
+password:lg123456
