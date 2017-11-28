@@ -1,0 +1,2 @@
+http://aboing.duapp.com/myblog/index/index.php 前台地址
+http://aboing.duapp.com/myblog/admin/index.php 后台地址
